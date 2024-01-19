@@ -1,0 +1,83 @@
+a:link {
+    background-color: transparent;
+    text-decoration: none;
+}
+
+h1, h2 {
+    color: #805536;
+    text-align: center;
+    margin: auto;
+    width: 80%;
+}
+
+h2 {
+    padding-bottom: 15px;
+}
+
+ol li {
+    color: #18530B;
+    list-style-type: none;
+}
+
+.contents {
+    color: #18530B;
+    font-weight: bold;
+    font-size: 14pt;
+    text-decoration: none;
+}
+
+.contents:hover {
+    color: #2B9614;
+}
+
+#toc {
+    margin: auto;
+    width: 80%;
+    text-align: justify;
+}
+
+.divider {
+    margin: auto;
+    width: 80%;
+    padding: 20px 0; 
+}
+
+.section-divider {
+    padding: 40px 0;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    text-align: justify;
+    white-space: pre-line;
+}
+
+.column-wrapper {
+    margin: auto;
+    width: 80%;
+}
+  
+  /* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.english {
+    margin-right: 10px;
+}
+
+.russian {
+    margin-left: 10px;
+    font-size: 11.2pt;
+}
+
+pre {
+    white-space: pre-wrap;       /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
