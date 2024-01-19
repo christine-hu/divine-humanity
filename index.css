@@ -46,23 +46,18 @@ ol li {
     padding: 40px 0;
 }
 
-.column {
-    float: left;
-    width: 50%;
-    text-align: justify;
-    white-space: pre-line;
+.content {
+    margin: auto;
+    width: 80%
 }
 
-.column-wrapper {
-    margin: auto;
-    width: 80%;
+.paragraph {
+    display: flex;
 }
   
-  /* Clear floats after the columns */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
+.paragraph > p, .paragraph > blockquote {
+    flex: 1 1 50%;
+    text-align: justify;
 }
 
 .english {
@@ -71,13 +66,4 @@ ol li {
 
 .russian {
     margin-left: 10px;
-    font-size: 11.2pt;
-}
-
-pre {
-    white-space: pre-wrap;       /* Since CSS 2.1 */
-    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
-    white-space: -pre-wrap;      /* Opera 4-6 */
-    white-space: -o-pre-wrap;    /* Opera 7 */
-    word-wrap: break-word;       /* Internet Explorer 5.5+ */
 }
