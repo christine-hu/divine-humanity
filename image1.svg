@@ -1,24 +1,18 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>The World as an Organic Whole</title>
-	<link rel = "stylesheet" type = "text/css" href = "index.css" />
-	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-	<link rel="icon" href="/favicon.ico" type="image/x-icon">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>  
-<body bgcolor=#fbf5ea>    
-   <div class="main"><div class="wrapper"><svg
-        width="55%"
-        viewBox="-13.6 -13.6 233.6 233.6"
-        version="1.1"
-        id="svg1"
-        xml:space="preserve"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:svg="http://www.w3.org/2000/svg">
-   <defs id="defs1">
-    <linearGradient id="swatch271"><stop
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="206.39998mm"
+   height="206.40001mm"
+   viewBox="0 0 206.39998 206.40001"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><linearGradient
+       id="swatch271"><stop
          style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
          id="stop271" /></linearGradient><clipPath
@@ -28,17 +22,7 @@
          id="circle256"
          cx="105.29507"
          cy="136.89844"
-         r="103.2" /></clipPath>
-         <path id="titlePath"
-                d="M 103.2, 103.2
-                   m -106.2, 0
-                   a 54.6,54.6 4 1,1 211.4,0" />
-        <path id="linkPath"
-                d="M 103.2, 103.2
-                   m -107.2, 3
-                   a 54.6,54.6 0 1,0 221.4,0" />
-    </defs>
-         <image
+         r="103.2" /></clipPath></defs><image
      width="206.63959"
      height="232.56876"
      preserveAspectRatio="none"
@@ -48,30 +32,32 @@
      y="20.614059"
      clip-path="url(#clipPath256)"
      style="stroke:#000000;stroke-width:3.6;stroke-dasharray:none;stroke-opacity:1"
-     transform="translate(-2.0950699,-33.69844)" />
-     <text font-family="Garamond" font-size="18" font-weight="bold">
-        <textPath xlink:href="#titlePath">
-            &#160;&#160;&#160;&#160;the world as an organic whole
-        </textPath>
-        <textPath xlink:href="#linkPath">
-            &#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160 &#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160; audio
-        </textPath>
-      </text>
-    
-    <a xlink:href="text/index.html" target="__blank">
-        <text font-family="Garamond" font-size="18" font-weight="bold"><textPath xlink:href="#linkPath">
-            &#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160 &#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160; text
-        </textPath></text>
-    </a>
-    <a xlink:href="thesis.pdf" target="__blank">
-        <text font-family="Garamond" font-size="18" font-weight="bold"><textPath xlink:href="#linkPath">
-            &#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160&#160;&#160;&#160
-            &#160;&#160;&#160&#160;&#160;&#160&#160;&#160;
-            essay
-        </textPath></text>
-    </a>
-    </svg>
-    </div>
-    </div>
-</body>
-</html>
+     transform="translate(-2.0950699,-33.69844)" /><circle
+     style="fill:none;fill-opacity:0.985075;stroke:none;stroke-width:0.365427;stroke-dasharray:none;stroke-opacity:1"
+     id="path271"
+     cx="103.2"
+     cy="103.2"
+     r="103.2" /><text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1401px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:-0.562067px;word-spacing:-0.0227865px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:0.985075;stroke:none;stroke-width:0.394727;stroke-dasharray:none;stroke-opacity:1"
+     id="text272"
+     transform="rotate(90,122.93617,117.19616)"><textPath
+       xlink:href="#path271"
+       startOffset="50%"
+       id="textPath272"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:Garamond">the world as an organic whole</textPath></text><text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.14px;font-family:Garamond;-inkscape-font-specification:Garamond;text-align:center;letter-spacing:-0.391583px;word-spacing:-0.015875px;text-anchor:middle;fill:#020202;fill-opacity:0.985075;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+     id="text273-0"
+     transform="translate(-1.0084976,-20.834899)"><textPath
+       xlink:href="#path273"
+       startOffset="50%"
+       id="textPath273"><tspan
+         id="tspan272-4"
+         style="font-weight:bold;font-size:11.14px;fill:#020202;fill-opacity:0.985075;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1">  essay   text   audio  </tspan></textPath></text><circle
+     style="fill:none;fill-opacity:0.985075;stroke:none;stroke-width:0.346447;stroke-dasharray:none;stroke-opacity:1"
+     id="path273"
+     cx="-98.304169"
+     cy="-103.2"
+     r="103.2"
+     transform="matrix(0,-1,-1,0,0,0)" /></svg>
