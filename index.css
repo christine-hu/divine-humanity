@@ -1,23 +1,44 @@
-a:link {
-    background-color: transparent;
-    text-decoration: none;
+svg #link {
+    transition: 0.3s;
+    z-index: 3;
 }
 
-:link {
-    color: #0000EE;
+svg #title:hover {
+    cursor: default;
+} 
+
+svg #link:hover {
+    fill:#a1824b;
 }
 
-:visited {
-    color: #0000EE;
+.audio {
+    z-index: 2;
 }
+
+
+.container {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+/* svg image {
+    transition: 0.3s
+} */
+
+/* svg image:hover {
+    opacity:60%;
+} */
 
 html, body {
     height: 100%;
 }
-.main {
+.main, .audio {
     height: 100%;
     width: 100%;
     display: table;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 .wrapper {
     display: table-cell;
