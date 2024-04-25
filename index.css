@@ -11,6 +11,25 @@ svg #link:hover {
     fill:#a1824b;
 }
 
+svg #caption {
+    fill: white;
+    opacity: 0; 
+    transition: 0.3s;
+}
+
+svg #caption:hover {
+    fill: #fbf5ea;
+    opacity: 80%; 
+}
+
+/* svg image {
+    transition: 0.3s
+} 
+
+svg image:hover {
+    opacity:60%;
+}  */
+
 .audio {
     z-index: 2;
 }
@@ -33,13 +52,6 @@ a {
     height: 100%;
     position: relative;
 }
-/* svg image {
-    transition: 0.3s
-} */
-
-/* svg image:hover {
-    opacity:60%;
-} */
 
 html, body {
     height: 100%;
