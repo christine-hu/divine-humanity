@@ -15,6 +15,17 @@ svg #link:hover {
     z-index: 2;
 }
 
+a {
+    font-family: 'Garamond';
+}
+
+#audio-text-top {
+    margin-bottom: 30px;
+}
+
+#audio-text-bottom {
+    margin-top: 20px;
+}
 
 .container {
     width: 100%;
