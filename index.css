@@ -13,7 +13,7 @@ svg #link:hover {
 
 svg #caption {
     fill: white;
-    opacity: 0; 
+     opacity: 0;  
     transition: 0.3s;
 }
 
@@ -36,11 +36,13 @@ svg image:hover {
 
 a {
     font-family: 'Garamond';
-    color: white;
+    color: #222222;
+    font-weight: bold;
 }
 
 #audio-text-top {
     margin-bottom: 30px;
+    
 }
 
 #audio-text-bottom {
